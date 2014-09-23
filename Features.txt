@@ -1,0 +1,27 @@
+To begin using this spreadsheet, click the "Get Statement" button on worksheet "Key." Browse for a statement you 
+downloaded from www.bankofamerica.com (accouts tab, select an account, the download button is just above the 
+"$Amount" column) and open it. The relevant data will be extracted to worksheet "Data" (there may be a sample
+statement included in worksheet "Data" - if that's the case, you can use that, or simply following the previous
+instructions will write over it).
+
+-TRANSACTIONS-
+
+From here, click on any transaction on worksheet "Data" (column B) to create a keyword for that transaction and
+similar transactions. For example, if one of your transactions is: CHECKCARD 0602 CAFE AGORA INC ATLANTA GA, a
+good keyword is "CAFE AGORA." Every transaction with the exact phrase "Cafe Agora" will be assigned the 
+category and subcategory you specify. The transactions will fill themselves out as you create keywords. Selecting
+a transaction that already has an associated keyword will not allow you to edit that keyword - that is done in 
+worksheet "key," explained later - instead, it allows you to customize that one, single transaction. This is 
+helpful for transactions like ATM withdrawls so that you can specify what you spent that cash on.
+
+-CHARTS-
+
+Once all of your transactions are filled out, you are ready to visualize your history. Go to worksheet "Charts" to
+see a breakdown of your finances. Currently, the only displayed functionality that is available is the sort 
+button in the upper-left, and update button in the center, and the "past __ weeks/months" fields. Enter a number
+in either field and update the chart to see only data in that time frame.
+
+-EDITING-
+Any editing of keywords, categories, and subcategories is done in worksheet "key." To edit a keyword click in any
+of the four cells in the row with that keyword. To edit a category or subcategory, click it in the field to the
+right.
